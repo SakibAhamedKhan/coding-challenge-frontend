@@ -4,7 +4,7 @@ import Form from './components/Form';
 
 function App() {
   return (
-    <div>
+    <div className='bg-gray-900 h-screen'>
       <Form></Form>
     </div>
   );
